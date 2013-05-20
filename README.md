@@ -17,9 +17,9 @@ might exploit. By going through this process, you can identify and close securit
 Topics that will be covered are Identifying Architectural, Implementation and Operational vulnerabilities.
 
 ### Lecture Materials
-1. [Design & Operational Reviews](http://vimeo.com/29082852/) [[slides]](http://pentest.cryptocity.net/files/code_analysis/design_review_fall2011.pdf)
-2. [Code Auditing 101](http://vimeo.com/30001189/) [[slides]](http://pentest.cryptocity.net/files/code_analysis/code_audits_1_fall2011.pdf)
-3. [Code Auditing 102](http://vimeo.com/29702192/) [[slides]](http://pentest.cryptocity.net/files/code_analysis/code_audits_2_fall2011.pdf)
+1. [Design & Operational Reviews](http://vimeo.com/29082852/) [[slides](http://pentest.cryptocity.net/files/code_analysis/design_review_fall2011.pdf)]
+2. [Code Auditing 101](http://vimeo.com/30001189/) [[slides](http://pentest.cryptocity.net/files/code_analysis/code_audits_1_fall2011.pdf)]
+3. [Code Auditing 102](http://vimeo.com/29702192/) [[slides](http://pentest.cryptocity.net/files/code_analysis/code_audits_2_fall2011.pdf)]
 
 
 ### Resources
@@ -53,8 +53,8 @@ the skills that you have learned last week to efficiently go over the process of
 This session will cover web hacking. This session is about getting familiarity with various vulnerabilities commonly found in web applications. You will be able to identify and exploit web application vulnerabilities. Topics to be covered are web application primer, Vuln. commonly found in web apps. (OWASP Top 10) and Basic web testing methodologies.
 
 ### Lecture Materials
-1. [Web Hacking 101](http://vimeo.com/32509769) [[slides]](http://pentest.cryptocity.net/files/web/2011/Web%20Hacking%20Day%201%20-%202011.pdf)
-2. [Web Hacking 102](http://vimeo.com/32550671) [[slides]](http://pentest.cryptocity.net/files/web/2011/Web%20Hacking%20Day%202%20-%202011.pdf)
+1. [Web Hacking 101](http://vimeo.com/32509769) [[slides](http://pentest.cryptocity.net/files/web/2011/Web%20Hacking%20Day%201%20-%202011.pdf)]
+2. [Web Hacking 102](http://vimeo.com/32550671) [[slides](http://pentest.cryptocity.net/files/web/2011/Web%20Hacking%20Day%202%20-%202011.pdf)]
 
 ### Resources
 1. [The Tangled Web](http://nostarch.com/tangledweb.htm)
@@ -77,8 +77,8 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 
 ### Lecture Videos
 1. [Reverse Engineering 101](http://vimeo.com/6764570)
-2. [Reverse Engineering 102](http://vimeo.com/30076325)  [[slides]](http://pentest.cryptocity.net/files/reversing/sotirov-re-fall2011.pdf)
-3. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides]](http://pentest.cryptocity.net/files/reversing/2011/dynamic_reversing_2011.pdf)
+2. [Reverse Engineering 102](http://vimeo.com/30076325)  [[slides](http://pentest.cryptocity.net/files/reversing/sotirov-re-fall2011.pdf)]
+3. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides](http://pentest.cryptocity.net/files/reversing/2011/dynamic_reversing_2011.pdf)]
 
 ### Resources
 1. [ISIS RE Wiki](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
@@ -120,7 +120,7 @@ Picking up from the last week's session, we will continue to explore the world o
 In this week's session, we will go over some advanced concepts related to computer security. Dino Dai Zovi will go over various memory errors that an application can cause often leading to catastrophic results. Topics that will be covered are various memory errors like buffer overflows, uninitialized variables, use after free etc and how we can use them to take control of an application. We will also look at exploitation mitigation that your current OS implements, it's not 1988 anymore. Finally, we will look at some bypassing techniques on the mitigation's.
 
 ### Lecture Materials
-1. [Memory corruption 101](http://vimeo.com/31348274) [[slides]](http://pentest.cryptocity.net/files/exploitation/2011/memory_corruption_101.pdf)
+1. [Memory corruption 101](http://vimeo.com/31348274) [[slides](http://pentest.cryptocity.net/files/exploitation/2011/memory_corruption_101.pdf)]
 
 ### Resources
 1. [ISIS Exploitation Wiki](https://github.com/isislab/Project-Ideas/wiki/Exploitation)
