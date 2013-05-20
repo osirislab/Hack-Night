@@ -2,7 +2,7 @@ NYU Poly's Hack Night
 =====================
 
 ## Week 1: Introduction
-This is an introduction session to the Hack Night curriculum, this session tries to give an overview of what rest HN sessions is to be followed. More importantly, it also gives the
+This is an introduction session to the Hack Night curriculum, this session tries to give an overview of what rest of Hack Night sessions is to be followed. More importantly, it also gives the
 ethics necessary to keep in mind when you learn something as powerful as your going to do now. Next, we will cover various types of disclosure that hackers have followed since
 its inception.
 
@@ -81,7 +81,7 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 3. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides](http://pentest.cryptocity.net/files/reversing/2011/dynamic_reversing_2011.pdf)]
 
 ### Resources
-1. [ISIS RE Wiki](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+1. [ISIS Reverse Engineering Wiki](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 
 
 ## Week 7: Reverse Engineering Workshop
@@ -95,7 +95,7 @@ Picking up from previous session, we will present you with an application which 
 ### Resources
 1. [x86 win32 reverse engineering cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
 2. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
-3. [ISIS RE Wiki](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+3. [ISIS Reverse Engineering Wiki](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 
 
 ## Week 8: Introduction to x86
