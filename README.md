@@ -1,4 +1,4 @@
-NYU Poly's Hack-Night
+NYU Poly's Hack Night
 =====================
 
 ## Week 1: Introduction
