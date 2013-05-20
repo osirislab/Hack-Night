@@ -109,14 +109,14 @@ In this session we will cover x86: Architecture, Assembly, Applications & Allite
 1. [All Materials](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip) related to class (includes slides, manuals & codes for labs)
 
 
-# Week 9: x86 Split-Workshop
+## Week 9: x86 Split-Workshop
 Picking up from the last week's session, we will continue to explore the world of x86. This is going to be a workshop were we will write programs at assembly level. Once, we get familiar to basic x86 instructions we will switch to analyzing a real application and try to get high level understanding of what the application is doing. The goal would be to get familiar with calling conventions, stack and stack frames.
 
 ### Workshop Materials
 1. [CMU bomb lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
 
 
-# Week 10: Exploiting Memory Corruption
+## Week 10: Exploiting Memory Corruption
 In this week's session, we will go over some advanced concepts related to computer security. Dino Dai Zovi will go over various memory errors that an application can cause often leading to catastrophic results. Topics that will be covered are various memory errors like buffer overflows, uninitialized variables, use after free etc and how we can use them to take control of an application. We will also look at exploitation mitigation that your current OS implements, it's not 1988 anymore. Finally, we will look at some bypassing techniques on the mitigation's.
 
 ### Lecture Materials
