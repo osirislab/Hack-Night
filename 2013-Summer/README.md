@@ -14,6 +14,7 @@ Summer Hack Night will be held online as a directed self-study course with secur
 ## Online Resources
 * IRC:  [#hacknight on isis.poly.edu port 6697 (ssl only)](http://chat.mibbit.com/?server=isis.poly.edu%3A%2B6697&channel=%23hacknight)
 * Project Ideas:  https://github.com/isislab/Project-Ideas/
+* Resources Wiki:  https://github.com/isislab/Project-Ideas/wiki
 * Blog:  https://isisblogs.poly.edu/
 * Github:  https://github.com/isislab/
 * Mailing List:  https://isis.poly.edu/mailman/listinfo/csc
