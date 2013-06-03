@@ -25,7 +25,8 @@ Summer Hack Night will be held online as a directed self-study course with secur
 * Wednesdays:  1 pm to 8 pm
 * Thursday:  11 am to 5 pm
 
-## Online Discussion Hours - (The IRC channel is always available, but will be monitored specifically during these hours)
+## Online Discussion Hours
+> (The IRC channel is always available, but will be monitored specifically during these hours)
 * Monday:  6 pm to 8 pm
 * Wednesday:  6 pm to 8 pm
 * Friday:  noon to 2 pm
