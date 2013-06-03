@@ -34,4 +34,4 @@ Summer Hack Night will be held online as a directed self-study course with secur
 * Friday:  noon to 2 pm
 * Saturday:  8 pm to 10 pm
 
-All of this is available to anyone!  :)
+**All of this is available to anyone!  :)**
