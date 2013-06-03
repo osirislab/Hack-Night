@@ -4,7 +4,7 @@
 
 This summer we're combining our world famous Hack Night with our High School Mentorship Program.  To stay informed, make sure you [complete this form](https://docs.google.com/forms/d/1uo3BZLUgBz5vZxKovlT7xNPMunnQg-umdp7QA61it8M/viewform)!
 
-***Just to be clear, this program is primarily focused on Information Security and is held in the ISIS Lab at NYU Poly.***
+*Just to be clear, this program is primarily focused on information security and is held in the ISIS Lab at NYU Poly.*
 
 Summer Hack Night will be held online as a directed self-study course with security materials prepared by members of the ISIS Lab.  Additionally, we will be holding study hours in the ISIS lab in Brooklyn for mentorships with senior lab members.  Summer Hack Night will culminate in each student developing some kind of deliverable related to computer security, the goal being that everyone leaves the program with more knowledge about security.
 
