@@ -6,7 +6,7 @@ Just to be clear, this program is primarily focused on Information Security and 
 Summer Hack Night will be held online as a directed self-study course with security materials prepared by members of the ISIS Lab.  Additionally, we will be holding study hours in the lab in Brooklyn for mentorships with senior lab members.  Summer Hack Night will culminate in each student developing some kind of deliverable related to computer security, the goal being that everyone leaves the program with more knowledge about security.
 
 ## Summer Hack Night Materials
-* http://sites.isis.poly.edu/hack-night
+* http://www.isis.poly.edu/hack-night
 * https://picoctf.com/learn
 * http://cyfor.isis.poly.edu/
 * https://class.coursera.org/hwswinterface-001/class/index
@@ -18,15 +18,17 @@ Summer Hack Night will be held online as a directed self-study course with secur
 * Github:  https://github.com/isislab/
 * Mailing List:  https://isis.poly.edu/mailman/listinfo/csc
 * Subreddits:  http://www.reddit.com/r/netsec, http://www.reddit.com/r/ReverseEngineering, http://www.reddit.com/r/RElounge
+* Calendar:  http://www.isis.poly.edu/calendar
 
 ## ISIS Lab Study Hours
+##### These are the times when a mentor will be onsite in the ISIS Lab.
 * Mondays:  11 am to 5 pm
 * Tuesdays:  11 am to 5 pm
 * Wednesdays:  1 pm to 8 pm
 * Thursday:  11 am to 5 pm
 
 ## Online Discussion Hours
-##### (The IRC channel is always available, but will be monitored specifically during these hours.  Times are in New York time)
+##### The IRC channel is always available, but will be monitored specifically during these hours.  Times are in New York time
 * Monday:  6 pm to 8 pm
 * Wednesday:  6 pm to 8 pm
 * Friday:  noon to 2 pm
