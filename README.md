@@ -1,5 +1,18 @@
 # NYU Poly [ISIS Lab](http://www.isis.poly.edu/)'s [Hack Night](http://www.isis.poly.edu/hack-night)
 
+## Week 0: Background
+In order to get the most out of Hack Night, you should be familiar with some basic security concepts.
+
+### Lecture Materials
+1. [PicoCTF Resources](https://picoctf.com/learn)
+
+### Resources
+1. [Sun Certified Security Administrator for Solaris 9 & 10 Study Guide Chapter 1](http://www.mhprofessional.com/downloads/products/0072254238/0072254238_ch01.pdf)
+2. [OWASP Application Security Principles](https://www.owasp.org/index.php/Category:Principle)
+3. [OWASP Secure Coding Principles](https://www.owasp.org/index.php/Secure_Coding_Principles)
+4. [The Hardware/Software Interface](https://class.coursera.org/hwswinterface-001/class/index)
+
+
 ## Week 1: Introduction
 This is an introduction session to the Hack Night curriculum, this session tries to give an overview of what rest of Hack Night sessions is to be followed. More importantly, it also gives the
 ethics necessary to keep in mind when you learn something as powerful as your going to do now. Next, we will cover various types of disclosure that hackers have followed since
@@ -9,12 +22,17 @@ Before diving into the Hack Night semester, we recommend you take a look at the 
 
 ### Lecture Materials
 1. [Trends in Vulnerability Disclosure](http://vimeo.com/48914102)
-2. [Introduction to Vulnerability Analysis](http://vimeo.com/49284329)
+2. [Intrusion via Web Application Flaws](http://vimeo.com/14983596)
+3. [Intrusion via Client-Side Exploitation](http://vimeo.com/14983828)
 
 ### Resources
-1. [PicoCTF Resources](https://picoctf.com/learn)
-2. [CyFor](http://cyfor.isis.poly.edu/)
-3. [The Hardware/Software Interface](https://class.coursera.org/hwswinterface-001/class/index)
+1. [ISIS Lab Blog](https://isisblogs.poly.edu/)
+2. [ISIS Lab Github](https://github.com/isislab/)
+3. [Project Ideas](https://github.com/isislab/Project-Ideas/issues)
+4. [Resources Wiki](https://github.com/isislab/Project-Ideas/wiki)
+5. [CyFor](http://cyfor.isis.poly.edu/)
+6. [Cyber Security Club Mailing List](https://isis.poly.edu/mailman/listinfo/csc)
+7. [ISIS Lab Calendar](http://www.isis.poly.edu/calendar)
 
 
 ## Week 2: Code Auditing
