@@ -19,4 +19,8 @@ Your homework for week 1 is to pick a project and a research topic.  This is the
 
 * https://github.com/isislab/Project-Ideas/issues
 
-## Week 2:  Coming Soon
+## Week 2:  [Source Code Analysis](https://github.com/isislab/Hack-Night#week-2-code-auditing)
+This is an introduction to Source Code Analysis.  Watch all three lectures and check out the resources.  If you aren't familiar with [C](https://github.com/isislab/Project-Ideas/wiki/Programming#c) or [PHP](https://github.com/isislab/Project-Ideas/wiki/Programming#php), you can learn them from resources [here](https://github.com/isislab/Project-Ideas/wiki/Programming).  Don't spend too much time learning the language, just enough so you can understand the lecture.
+
+### [Homework](https://github.com/isislab/Hack-Night#week-3-code-auditing-workshop)
+Try to find bugs in all three workshop materials.  If you need any help, ask a mentor.
