@@ -26,13 +26,14 @@ Before diving into the Hack Night semester, we recommend you take a look at the 
 3. [Intrusion via Client-Side Exploitation](http://vimeo.com/14983828)
 
 ### Resources
-1. [ISIS Lab Blog](https://isisblogs.poly.edu/)
-2. [ISIS Lab Github](https://github.com/isislab/)
-3. [Project Ideas](https://github.com/isislab/Project-Ideas/issues)
-4. [Resources Wiki](https://github.com/isislab/Project-Ideas/wiki)
-5. [CyFor](http://cyfor.isis.poly.edu/)
-6. [Cyber Security Club Mailing List](https://isis.poly.edu/mailman/listinfo/csc)
-7. [ISIS Lab Calendar](http://www.isis.poly.edu/calendar)
+1. [IRC: #hacknight on isis.poly.edu port 6697 (ssl only)](http://chat.mibbit.com/?server=isis.poly.edu%3A%2B6697&channel=%23hacknight)
+2. [ISIS Lab Blog](https://isisblogs.poly.edu/)
+3. [ISIS Lab Github](https://github.com/isislab/)
+4. [Project Ideas](https://github.com/isislab/Project-Ideas/issues)
+5. [Resources Wiki](https://github.com/isislab/Project-Ideas/wiki)
+6. [CyFor](http://cyfor.isis.poly.edu/)
+7. [Cyber Security Club Mailing List](https://isis.poly.edu/mailman/listinfo/csc)
+8. [ISIS Lab Calendar](http://www.isis.poly.edu/calendar)
 
 
 ## Week 2: Code Auditing
