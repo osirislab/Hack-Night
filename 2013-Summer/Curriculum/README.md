@@ -24,3 +24,9 @@ This is an introduction to Source Code Analysis.  Watch all three lectures and c
 
 ### [Homework](https://github.com/isislab/Hack-Night#week-3-code-auditing-workshop)
 Try to find bugs in all three workshop materials.  If you need any help, ask a mentor.
+
+## Week 3:  [Web Security](https://github.com/isislab/Hack-Night#week-4-web-hacking)
+This is an introduction to web security.  Watch both lectures.  It helps to be familiar with web technologies, but isn't required.
+
+### [Homework](https://github.com/isislab/Hack-Night#week-5-web-hacking-workshop)
+Audit all three web applications.  If you need any help or have any questions, ask a mentor.
