@@ -26,16 +26,14 @@ Summer Hack Night will be held online as a directed self-study course with secur
 
 ## ISIS Lab Study Hours
 ##### These are the times when a mentor will be onsite in the ISIS Lab.
-* Mondays:  11 am to 5 pm
-* Tuesdays:  11 am to 5 pm
+* Tuesdays:  12 pm to 6 pm
 * Wednesdays:  1 pm to 8 pm
-* Thursday:  11 am to 5 pm
+* Thursdays:  12 pm to 6 pm
 
 ## Online Discussion Hours
-##### The IRC channel is always available, but will be monitored specifically during these hours.  Times are in New York time
+##### The IRC channel is always available, but will be monitored specifically during these hours.  Times are in New York time.
 * Monday:  6 pm to 8 pm
 * Wednesday:  6 pm to 8 pm
-* Friday:  noon to 2 pm
 * Saturday:  8 pm to 10 pm
 
 **All of this is available to anyone!  :)**
