@@ -61,15 +61,10 @@ the skills that you have learned last week to efficiently go over the process of
 
 ### Workshop Materials
 1. [Client Request Access Protocol](http://pentest.cryptocity.net/files/code_analysis/designdoc-fall2010.pdf)
-
 We believe this protocol to be severely flawed and require your assistance in identifying vulnerabilities in it. Your objective is to identify and informally describe as many of these issues that you can.
-
 2. [News Paper](http://pentest.cryptocity.net/files/code_analysis/fall2011_hw2.c)  [Simple Usage] (http://pentest.cryptocity.net/files/code_analysis/fall2011_install.sh)
-
 This network service simulates a text-based terminal application. The general purpose of the application is to act as a "news server" or text file service. These are two types of users: regular and administrator. Administrators can add users and execute back-end system commands. Users can view and contribute articles (aka text files). Assume the application runs on Linux and is compiled with gcc.
-
 3. [Siberia Crimeware Pack](http://pentest.cryptocity.net/files/code_analysis/siberia.zip) (Password: infected)
-
 The Siberia kit contains live exploit code and will likely set off AV, however none of the exploit code is in a state where it would be harmful to your computer. In addition to all of the vulnerabilites have been patched years ago, the exploits in Siberia need to be interpreted by PHP and read by your browser for them to have any effect. You can safely disable or create exceptions in your AV for this exercise or place the Siberia files inside a VM.
 
 ### Tools
@@ -119,12 +114,13 @@ Picking up from previous session, we will present you with an application which 
 
 ### Workshop Materials
 1. [Challenge Application](http://128.238.66.181/easy32)
-2. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-3. [VMWare player](http://www.vmware.com/download/player/download.html)
+2. [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected)
 
 ### Resources
-1. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-2. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+1. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+2. [VMWare player](http://www.vmware.com/download/player/download.html)
+3. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+4. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
 
 
 ## Week 8: Introduction to x86
@@ -144,6 +140,11 @@ Picking up from the last week's session, we will continue to explore the world o
 
 ### Workshop Materials
 1. [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
+2. [Write readFile.c in x86 by hand](https://github.com/isislab/Hack-Night/tree/master/2013-Spring/week9)
+
+### Resources
+1. [nasm](http://www.nasm.us/)
+2. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 10: Exploiting Memory Corruption
@@ -160,9 +161,14 @@ In this week's session, we will go over some advanced concepts related to comput
 Picking up from the last session, we will do a live exploitation of a vulnerable program. We will go through all the steps that Dino explained in his lecture to write a control flow hijacking exploit and take over the program. Once we are done with the 1990's style exploitation, we will re-compile the program with modern mitigation technologies and look at various techniques used to bypass these mitigation's.
 
 ### Workshop Materials
-1. [Vulnerable Application](https://github.com/wontonSlim/bufferOverflowApplicationSecurity)
-2. [VMWare Player](http://www.vmware.com/download/player/download.html)
-3. [Linux Machine](http://www.ubuntu.com/download/desktop) (preferably, Ubuntu)
+1. [Vulnerable Application](https://github.com/isislab/Hack-Night/tree/master/2013-Spring/week11)
+2. [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected)
+
+### Resources
+1. [VMWare Player](http://www.vmware.com/download/player/download.html)
+2. [Linux Machine](http://www.ubuntu.com/download/desktop) (preferably, Ubuntu)
+3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+4. [Windbg](http://msdn.microsoft.com/en-us/library/windows/hardware/gg463009.aspx)
 
 ### More Challenges
 1. [Gera's Insecure Programming by Example](http://community.corest.com/~gera/InsecureProgramming/)
@@ -185,6 +191,9 @@ In this, the last session of Hack Night. We will be going over Fuzzing and later
 
 ### Lecture Material
 1. [Fuzzing](https://vimeo.com/7574602)
+
+### Workshop Materials
+1. [fuzz.py](https://github.com/isislab/Hack-Night/tree/master/2013-Spring/week13)
 
 ### Resources
 1. [Fuzzing](https://github.com/isislab/Project-Ideas/wiki/Fuzzing)
