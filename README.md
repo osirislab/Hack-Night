@@ -124,11 +124,10 @@ Picking up from previous session, we will present you with an application which 
 
 
 ## Week 8: Introduction to x86
-In this session we will cover x86: Architecture, Assembly, Applications & Alliteration. Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation. 50% of the time will be spent learning Windows/Linux tools and analysis of simple programs.
+In this session we will cover [Introductory Intel x86: Architecture, Assembly, Applications, and Alliteration by Xeno Kovah](http://www.opensecuritytraining.info/IntroX86.html) from [OpenSecurityTraining](http://www.opensecuritytraining.info/Welcome.html). Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation. 50% of the time will be spent learning Windows/Linux tools and analysis of simple programs.
 
 ### Lecture Materials
-1. [Introductory Intel x86 Day 1](http://www.youtube.com/playlist?list=PL-yS-4DLpS8K6Nypsp3vlIzI1ba2QgVy0)
-2. [Introductory Intel x86 Day 2](http://www.youtube.com/playlist?list=PL-yS-4DLpS8J65yomNBUL-pp_aG-VKXI7)
+1. [Introductory Intel x86 Lectures](http://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 
 ### Resources
 1. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
