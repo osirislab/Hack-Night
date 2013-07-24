@@ -180,6 +180,14 @@ In this week, we will cover post-exploitation. Post-exploitation is the stage in
 ### Lecture Material
 1. [Post Exploitation](http://vimeo.com/33344191)
 
+### Workshop Material
+As shown in the lecture video, setup two VM’s. One VM will have metasploit running, backtrack is preferred and the other machine will be a Windows box. Preferred, win xp professional or win 7 professional.
+Use the psexec module available in metasploit to gain access to the Windows box. Once, you have a meterpreter session available, apply different techniques demonstrated in the lecture like getting the password hash of Administrator, so that you can re-login as Administrator which gives you elevated privileges.
+
+Having a meterpreter session open isn’t necessarily good enough. For instance, run cmd.exe in windows box; get back to your meterpreter session and find the pid of cmd.exe using “ps” command. Once you are able to figure out the pid, use the migrate command to switch to that process. Now, close the command prompt in the windows box. Do you still have the session open? What do you think a stable process might be to migrate?
+
+If you have found the stable process that you as an attacker want to migrate to, chances are your persistence is good. Although, this may not be the case if the victim restarts his machine. What do you think a better approach would be to keep your connection persistent, even after several reboots? Try to use this method and see for yourself, if you have a persistent connection or not.
+
 ### Resources
 1. [Symantec Stuxnet Dossier](http://pentest.cryptocity.net/files/operations/references/w32_stuxnet_dossier.pdf)
 2. [Useful References](http://pentest.cryptocity.net/operations/references.html)
