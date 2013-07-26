@@ -19,17 +19,19 @@ Your homework for week 1 is to pick a project and a research topic.  This is the
 
 * https://github.com/isislab/Project-Ideas/issues
 
+If you cannot find a project that immediately captures your interest, just go through the list and keep it in the back of your mind while continuing the through the Hack Night curriculum.
+
 ## Week 2:  [Source Code Analysis](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-2-code-auditing)
 This is an introduction to Source Code Analysis.  Watch all three lectures and check out the resources.  If you aren't familiar with [C](https://github.com/isislab/Project-Ideas/wiki/Programming#c) or [PHP](https://github.com/isislab/Project-Ideas/wiki/Programming#php), you can learn them from resources [here](https://github.com/isislab/Project-Ideas/wiki/Programming).  Don't spend too much time learning the language, just enough so you can understand the lecture.
 
 ### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-3-code-auditing-workshop)
-Try to find bugs in all three workshop materials.  If you need any help, ask a mentor.
+Try to find bugs in all three workshop materials.  Find three bugs in each assignment, then move on.  If you need any help, ask a mentor.
 
 ## Week 3:  [Web Security](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-4-web-hacking)
 This is an introduction to web security.  Watch both lectures.  It helps to be familiar with web technologies, but isn't required.
 
 ### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-5-web-hacking-workshop)
-Audit all three web applications.  If you need any help or have any questions, ask a mentor.
+Audit all three web applications.  Find three bugs in each web application, then move on.  If you need any help or have any questions, ask a mentor.
 
 ## Week 4:  [Reverse Engineering](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-6-reverse-engineering)
 During the regular semester we have 4 weeks dedicated to Reverse Engineering, however we will not be using all the materials during the summer.  Watch the three lecture videos, and then continue onto the homework.  If you particularly enjoy this topic, you can watch [Xeno's lectures](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-8-introduction-to-x86) too and do more of the [workshops](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-7-reverse-engineering-workshop) from the regular curriculum.
