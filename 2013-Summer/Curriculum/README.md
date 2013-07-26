@@ -2,7 +2,7 @@
 
 We're going to refer to each section of the Hack Night curriculum as a "week" because that's how we have it structured, however each topic won't necessary last a week.
 
-## Week 0:  [Background](https://github.com/isislab/Hack-Night#week-0-background)
+## Week 0:  [Background](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-0-background)
 Just some basics here.  Watch the PicoCTF videos.  Read a bit of the textbook chapter until you get bored.  The Security Principles and the Secure Coding Principles are highly recommended, try to understand these as well as you can.  If these principles don't make sense now, they'll become clearer throughout the summer.  If reverse engineering and low level programming excite you, we recommend you watch as much of The Hardware/Software Interface class as you can, so you're ready to go when we hit week 6.
 
 ### Homework
@@ -11,7 +11,7 @@ Your homework for week 0 is this PicoCTF challenge, Python Eval 1.  Feel free to
 * https://picoctf.com/problems/pyeval/stage1.html
 * https://picoctf.com/registration
 
-## Week 1:  [Introduction](https://github.com/isislab/Hack-Night#week-1-introduction)
+## Week 1:  [Introduction](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-1-introduction)
 An introduction to Hack Night.  A little bit about vulnerability disclosure, and a little bit about ethics.  Two videos about what you'll learn over the summer, and how it all fits together.  The most important part of week 1 is checking out all our resources and trying to determine what you want to take away from this program.  What topics you want to focus on, what projects you want to work on, what you want to learn, what skills you want to master.
 
 ### Homework
@@ -19,14 +19,20 @@ Your homework for week 1 is to pick a project and a research topic.  This is the
 
 * https://github.com/isislab/Project-Ideas/issues
 
-## Week 2:  [Source Code Analysis](https://github.com/isislab/Hack-Night#week-2-code-auditing)
+## Week 2:  [Source Code Analysis](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-2-code-auditing)
 This is an introduction to Source Code Analysis.  Watch all three lectures and check out the resources.  If you aren't familiar with [C](https://github.com/isislab/Project-Ideas/wiki/Programming#c) or [PHP](https://github.com/isislab/Project-Ideas/wiki/Programming#php), you can learn them from resources [here](https://github.com/isislab/Project-Ideas/wiki/Programming).  Don't spend too much time learning the language, just enough so you can understand the lecture.
 
-### [Homework](https://github.com/isislab/Hack-Night#week-3-code-auditing-workshop)
+### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-3-code-auditing-workshop)
 Try to find bugs in all three workshop materials.  If you need any help, ask a mentor.
 
-## Week 3:  [Web Security](https://github.com/isislab/Hack-Night#week-4-web-hacking)
+## Week 3:  [Web Security](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-4-web-hacking)
 This is an introduction to web security.  Watch both lectures.  It helps to be familiar with web technologies, but isn't required.
 
-### [Homework](https://github.com/isislab/Hack-Night#week-5-web-hacking-workshop)
+### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-5-web-hacking-workshop)
 Audit all three web applications.  If you need any help or have any questions, ask a mentor.
+
+## Week 4:  [Reverse Engineering](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-6-reverse-engineering)
+During the regular semester we have 4 weeks dedicated to Reverse Engineering, however we will not be using all the materials during the summer.  Watch the three lecture videos, and then continue onto the homework.  If you particularly enjoy this topic, you can watch [Xeno's lectures](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-8-introduction-to-x86) too and do more of the [workshops](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-7-reverse-engineering-workshop) from the regular curriculum.
+
+### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-9-x86-split-workshop)
+The homework for Reverse Engineering is to solve the first two stages of the [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar).  Use [IDA Pro](https://www.hex-rays.com/products/ida/support/download_demo.shtml) and [gdb](http://www.yolinux.com/TUTORIALS/GDB-Commands.html) to try and solve the first two phases.
