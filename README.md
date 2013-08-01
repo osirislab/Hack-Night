@@ -1,4 +1,13 @@
 # NYU Poly [ISIS Lab](http://www.isis.poly.edu/)'s [Hack Night](http://www.isis.poly.edu/hack-night)
+Hack Night is an open weekly training session run by the ISIS lab.  Hack Night training materials are based on archived [Penetration Testing and Vulnerability Analysis and Application Security](http://pentest.cryptocity.net/) courses.  All of this material is still highly relevant and practical, but has been worked into the official curriculum in other ways.  It's recommended that all security students attend Hack Night for at least one full semester to learn this material.
+
+## Logistics
+If you have any questions, or would like to attend a Hack Night session, you can contact Evan Jensen or Marc Budofsky at HackNight@isis.poly.edu or you can [file a ticket](https://github.com/isislab/Hack-Night/issues) in Github.
+
+Sign up for the [Cyber Security Club mailing list](https://isis.poly.edu/mailman/listinfo/csc) to recieve weekly e-mails about seminars and training sessions brought to you by the [ISIS Lab](http://www.isis.poly.edu/).
+
+Hack Night is run every Wednesday during the regular semester at 6 PM in RH 219.
+
 
 ## Week 0: Background
 In order to get the most out of Hack Night, you should be familiar with some basic security concepts.
