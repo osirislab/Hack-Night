@@ -38,3 +38,21 @@ During the regular semester we have 4 weeks dedicated to Reverse Engineering, ho
 
 ### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-9-x86-split-workshop)
 The homework for Reverse Engineering is to solve the first two stages of the [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar).  Use [IDA Pro](https://www.hex-rays.com/products/ida/support/download_demo.shtml) and [gdb](http://www.yolinux.com/TUTORIALS/GDB-Commands.html) to try and solve the first two phases.
+
+## Week 5:  [Exploitation](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-10-exploiting-memory-corruption)
+Watch the video, and read about the history of Exploitation.
+
+### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-11-exploiting-memory-corruption-workshop)
+Write a fully functioning exploit for [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected) using the video.  We have prepared [two VMs](http://isis.poly.edu/~hake/hacknight/), one with the vulnerable application and another from which you will launch your exploit.  *These Virtual Machines are for NYU Poly Hack Night use ONLY.*
+
+## Week 6:  [Post-Exploitation](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-12-post-exploitation)
+Watch the video, and read about [Stuxnet](http://pentest.cryptocity.net/files/operations/references/w32_stuxnet_dossier.pdf).
+
+### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#workshop-material)
+Complete the workshop, using the same [VMs](http://isis.poly.edu/~hake/hacknight/).  *These Virtual Machines are for NYU Poly Hack Night use ONLY.*
+
+## Week 7:  [Fuzzing](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-13-fuzzing)
+Watch the video, and read about smart fuzzing.
+
+### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#workshop-materials-5)
+Use fuzz.py to fuzz mplayer or VLC.
