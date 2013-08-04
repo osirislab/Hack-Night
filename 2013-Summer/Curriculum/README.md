@@ -2,6 +2,8 @@
 
 We're going to refer to each section of the Hack Night curriculum as a "week" because that's how we have it structured, however each topic won't necessary last a week.
 
+[Logistics information is available here](https://github.com/isislab/Hack-Night/tree/master/2013-Summer/Logistics).
+
 ## Week 0:  [Background](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-0-background)
 Just some basics here.  Watch the PicoCTF videos.  Read a bit of the textbook chapter until you get bored.  The Security Principles and the Secure Coding Principles are highly recommended, try to understand these as well as you can.  If these principles don't make sense now, they'll become clearer throughout the summer.  If reverse engineering and low level programming excite you, we recommend you watch as much of The Hardware/Software Interface class as you can, so you're ready to go when we hit week 6.
 
@@ -52,7 +54,10 @@ Watch the video, and read about [Stuxnet](http://pentest.cryptocity.net/files/op
 Complete the workshop, using the same [VMs](http://isis.poly.edu/~hake/hacknight/).  *These Virtual Machines are for NYU Poly Hack Night use ONLY.*
 
 ## Week 7:  [Fuzzing](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#week-13-fuzzing)
-Watch the video, and read about smart fuzzing.
+Watch the video, and read about [smart](http://pages.cs.wisc.edu/~rist/642-fall-2011/toorcon.pdf) [fuzzing](http://www.uninformed.org/?v=5&a=5&t=pdf).  If this interests you, consider reading more about [Program Analysis](https://github.com/isislab/Project-Ideas/wiki/Program-Analysis).
 
 ### [Homework](https://github.com/isislab/Hack-Night/blob/master/2013-Summer/HackNight.md#workshop-materials-5)
-Use fuzz.py to fuzz mplayer or VLC.
+Use [fuzz.py](https://github.com/isislab/Hack-Night/blob/master/2013-Spring/week13/fuzz.py) to fuzz mplayer or VLC, until you have one crash.
+
+## [Final Project](https://github.com/isislab/Project-Ideas/issues)
+In [week 1](https://github.com/isislab/Hack-Night/tree/master/2013-Summer/Curriculum#week-1--introduction) you started to think about a project.  At this point, you should have one in mind.  Get approval from a mentor and start your final project.  **Remember to keep us updated on your progress.**
