@@ -1,6 +1,6 @@
 # Summer Hack Night 2013
 
-### [Sign Up Here](https://docs.google.com/forms/d/1uo3BZLUgBz5vZxKovlT7xNPMunnQg-umdp7QA61it8M/viewform)
+### [~~Sign Up Here~~](https://docs.google.com/forms/d/1uo3BZLUgBz5vZxKovlT7xNPMunnQg-umdp7QA61it8M/viewform)  Summer Hack Night has ended
 
 This summer we're combining our world famous Hack Night with our High School Mentorship Program.  To stay informed, make sure you [complete this form](https://docs.google.com/forms/d/1uo3BZLUgBz5vZxKovlT7xNPMunnQg-umdp7QA61it8M/viewform)!
 
