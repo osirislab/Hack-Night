@@ -57,11 +57,6 @@ We believe this protocol to be severely flawed and require your assistance in id
 5. [Catching Integer Overflows](http://www.fefe.de/intof.html)
 6. [The Fortify Taxonomy of Software Security Flaws](http://www.fortify.com/vulncat/)
 
-### Tools
-1. [Source Navigator](http://sourcenav.sourceforge.net/)
-2. [Scitools Understand](http://www.scitools.com/)
-3. [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
-
 
 ## Week 3: Code Auditing, Part 2
 This week we will continue with the final video on Code Auditing, and provide you with 2 more applications that are intentionally vulnerable. Your job is to audit the source code and find vulnerabilities in them. Test
@@ -75,6 +70,14 @@ the skills that you have learned last week to efficiently go over the process of
 This network service simulates a text-based terminal application. The general purpose of the application is to act as a "news server" or text file service. These are two types of users: regular and administrator. Administrators can add users and execute back-end system commands. Users can view and contribute articles (aka text files). Assume the application runs on Linux and is compiled with gcc.
 2. [Siberia Crimeware Pack](http://pentest.cryptocity.net/files/code_analysis/siberia.zip) (Password: infected)
 The Siberia kit contains live exploit code and will likely set off AV, however none of the exploit code is in a state where it would be harmful to your computer. In addition to all of the vulnerabilites have been patched years ago, the exploits in Siberia need to be interpreted by PHP and read by your browser for them to have any effect. You can safely disable or create exceptions in your AV for this exercise or place the Siberia files inside a VM.
+
+### Resources
+1. [Source Code Analysis](https://github.com/isislab/Project-Ideas/wiki/Source-Code-Analysis)
+2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
+3. [The Art of Software Security Assessment](http://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426/ref=sr_1_1?s=books&ie=UTF8&qid=1367449909&sr=1-1&keywords=the+art+of+software+security+assessment)
+4. [Integer Overflows](http://en.wikipedia.org/wiki/Integer_overflow)
+5. [Catching Integer Overflows](http://www.fefe.de/intof.html)
+6. [The Fortify Taxonomy of Software Security Flaws](http://www.fortify.com/vulncat/)
 
 ### Tools
 1. [Source Navigator](http://sourcenav.sourceforge.net/)
@@ -111,7 +114,7 @@ In this session, we will continue with the second video on Web Hacking.  We will
 
 
 ## Week 6: Reverse Engineering, Part 1
-This session is about Reverse Engineering.  Most of the software we use everyday is closed source. You don't have the liberty to look at the source code, at this point we need to analyze the available compiled binary. But, reversing a binary is no easy task but can be done with the proper methodology and the right tools. This is exactly what two of world's best reverser's are going to teach you.
+This session is about Reverse Engineering.  Most of the software we use everyday is closed source. You don't have the liberty to look at the source code, at this point we need to analyze the available compiled binary. Reversing a binary is no easy task but can be done with the proper methodology and the right tools. This is exactly what two of world's best reverse engineers are going to teach you.
 
 ### Lecture Videos
 1. [Reverse Engineering 101](http://vimeo.com/6764570)
@@ -126,7 +129,7 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 
 
 ## Week 7: Reverse Engineering, Part 2
-Picking up from previous session, we will watch the last video on Reverse Engineering, and present you with an application which has no source code. Your job is to understand what the application is doing and figure out any loopholes present in that application. You'll use tools like IDA that Alex Sotirov demonstrated in the last lecture to analyze the binary and get a complete understanding of the application.
+Picking up from previous session, we will watch the last video on Reverse Engineering, and present you with an application which has no source code. Your job is to understand what the application is doing and figure out any loopholes present in that application. You'll use static analysis tools like IDA and varied dynamic analysis to analyze the binary and get a complete understanding of the application.
 
 ### Lecture Videos
 1. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides](http://pentest.cryptocity.net/files/reversing/2011/dynamic_reversing_2011.pdf)]
@@ -142,7 +145,7 @@ Picking up from previous session, we will watch the last video on Reverse Engine
 
 
 ## Week 8: Introduction to x86
-In this session we will cover [Introductory Intel x86: Architecture, Assembly, Applications, and Alliteration by Xeno Kovah](http://www.opensecuritytraining.info/IntroX86.html) from [OpenSecurityTraining](http://www.opensecuritytraining.info/Welcome.html). Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation. 50% of the time will be spent learning Windows/Linux tools and analysis of simple programs.
+In this session we will cover [Introductory Intel x86: Architecture, Assembly, Applications, and Alliteration by Xeno Kovah](http://www.opensecuritytraining.info/IntroX86.html) from [OpenSecurityTraining](http://www.opensecuritytraining.info/Welcome.html). Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation. 50% of the time will be spent learning Windows/Linux tools and analysis of "simple" programs.
 
 ### Lecture Materials
 1. [Introductory Intel x86 Lectures](http://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
@@ -165,7 +168,7 @@ Picking up from the last week's session, we will continue to explore the world o
 
 
 ## Week 10: Exploiting Memory Corruption, Part 1
-In this week's session, we will go over some advanced concepts related to computer security. Dino Dai Zovi will go over various memory errors that an application can cause often leading to catastrophic results. Topics that will be covered are various memory errors like buffer overflows, uninitialized variables, use after free etc and how we can use them to take control of an application. We will also look at exploitation mitigation that your current OS implements, it's not 1988 anymore. Finally, we will look at some bypassing techniques on the mitigation's.
+In this week's session, we will go over some advanced concepts related to computer security. Dino Dai Zovi will go over various memory errors that an application can cause often leading to catastrophic results. Topics that will be covered are various memory errors like buffer overflows, uninitialized variables, use after free etc. and how we can use them to take control of an application. We will also look at exploitation mitigation that your current OS implements, it's not 1988 anymore. Finally, we will look at some techniques used to bypass modern mitigations.
 
 ### Lecture Materials
 1. [Memory Corruption 101](http://vimeo.com/31348274) [[slides](http://pentest.cryptocity.net/files/exploitation/2011/memory_corruption_101.pdf)]
@@ -178,7 +181,7 @@ In this week's session, we will go over some advanced concepts related to comput
 
 
 ## Week 11: Exploiting Memory Corruption, Part 2
-Picking up from the last session, we will finish watching Dino Dai Zovi's lecture and do a live exploitation of a vulnerable program. We will go through all the steps that Dino explained in his lecture to write a control flow hijacking exploit and take over the program. Once we are done with the 1990's style exploitation, we will re-compile the program with modern mitigation technologies and look at various techniques used to bypass these mitigation's.
+Picking up from the last session, we will finish watching Dino Dai Zovi's lecture and do a live exploitation of a vulnerable program. We will go through all the steps that Dino explained in his lecture to write a control flow hijacking exploit and take over the program. Once we are done with 1990's style exploitation, we will re-compile the program with modern mitigation technologies and look at various techniques used to bypass these mitigation's.
 
 ### Lecture Materials
 1. [Memory Corruption 101](http://vimeo.com/31348274) [[slides](http://pentest.cryptocity.net/files/exploitation/2011/memory_corruption_101.pdf)]
@@ -198,7 +201,7 @@ Picking up from the last session, we will finish watching Dino Dai Zovi's lectur
 
 
 ## Week 12: Post-Exploitation
-In this week, we will cover post-exploitation. Post-exploitation is the stage in the intrusion kill chain wherein the attacker uses persistence techniques after the victim's system is compromised to maintain his presence on the machine. In addition the attacker also wants his presence to be hidden, this includes evading antivirus software, covering his/her tracks, etc. We will look at various techniques used by attackers to achieve the aforementioned goals.
+In this week, we will cover post-exploitation. Post-exploitation is the stage in the intrusion kill chain wherein the attacker uses persistence techniques after the victim's system is compromised to maintain his/her presence on the machine. In addition the attacker also wants his presence to be hidden, this includes evading antivirus software, covering his/her tracks, etc. We will look at various techniques used by attackers to achieve the aforementioned goals.
 
 ### Lecture Material
 1. [Post Exploitation](http://vimeo.com/33344191)
@@ -224,6 +227,7 @@ In this, the last session of Hack Night. We will be going over Fuzzing and later
 
 ### Workshop Materials
 1. [fuzz.py](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week13)
+2. [HaikuSyscallFuzzer](https://github.com/isislab/HaikuSyscallFuzzer)
 
 ### Resources
 1. [Fuzzing](https://github.com/isislab/Project-Ideas/wiki/Fuzzing)
