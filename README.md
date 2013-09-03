@@ -168,9 +168,12 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
 3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [VMWare player](http://www.vmware.com/download/player/download.html)
-5. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-6. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
+7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+8. [nasm](http://www.nasm.us/)
+9. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 7: Reverse Engineering, Part 2
@@ -186,9 +189,12 @@ Picking up from previous session, we will watch the last video on Reverse Engine
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
 3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [VMWare player](http://www.vmware.com/download/player/download.html)
-5. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-6. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
+7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+8. [nasm](http://www.nasm.us/)
+9. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 8: Reverse Engineering, Part 3
@@ -201,10 +207,15 @@ In this session we will cover [Introductory Intel x86: Architecture, Assembly, A
 1. [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
 
 ### Resources
-1. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
-2. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
-3. [nasm](http://www.nasm.us/)
-4. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
+1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
+3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
+7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+8. [nasm](http://www.nasm.us/)
+9. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 9: Reverse Engineering, Part 4
@@ -217,10 +228,15 @@ Picking up from the last week's session, we will continue to explore the world o
 1. [Write readFile.c in x86 by hand](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week9)
 
 ### Resources
-1. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
-2. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
-3. [nasm](http://www.nasm.us/)
-4. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
+1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
+3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
+7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+8. [nasm](http://www.nasm.us/)
+9. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 10: Exploitation, Part 1
