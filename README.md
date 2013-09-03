@@ -147,6 +147,13 @@ In this session, we will continue with the second video on Web Hacking.  We will
 2. [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
 
 
+### Resources
+1. [Web Security](https://github.com/isislab/Project-Ideas/wiki/Web-Security)
+2. [The Tangled Web](http://nostarch.com/tangledweb.htm)
+3. [OWASP Top 10](https://www.owasp.org/index.php/Top_10)
+4. [OWASP Top 10 Tools and Tactics](http://resources.infosecinstitute.com/owasp-top-10-tools-and-tactics/)
+
+
 ## Week 6: Reverse Engineering, Part 1
 This session is about Reverse Engineering.  Most of the software we use everyday is closed source. You don't have the liberty to look at the source code, at this point we need to analyze the available compiled binary. Reversing a binary is no easy task but can be done with the proper methodology and the right tools. This is exactly what two of world's best reverse engineers are going to teach you.
 
@@ -160,6 +167,10 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 ### Resources
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
+3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+4. [VMWare player](http://www.vmware.com/download/player/download.html)
+5. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+6. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
 
 
 ## Week 7: Reverse Engineering, Part 2
@@ -172,33 +183,44 @@ Picking up from previous session, we will watch the last video on Reverse Engine
 1. [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected)
 
 ### Resources
-1. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-2. [VMWare player](http://www.vmware.com/download/player/download.html)
-3. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-4. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
+3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+4. [VMWare player](http://www.vmware.com/download/player/download.html)
+5. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
+6. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
 
 
-## Week 8: Introduction to x86
+## Week 8: Reverse Engineering, Part 3
 In this session we will cover [Introductory Intel x86: Architecture, Assembly, Applications, and Alliteration by Xeno Kovah](http://www.opensecuritytraining.info/IntroX86.html) from [OpenSecurityTraining](http://www.opensecuritytraining.info/Welcome.html). Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation. 50% of the time will be spent learning Windows/Linux tools and analysis of "simple" programs.
 
 ### Lecture Materials
 1. [Introductory Intel x86 Lectures](http://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 
+### Workshop Materials
+1. [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
+
 ### Resources
 1. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
 2. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+3. [nasm](http://www.nasm.us/)
+4. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
-## Week 9: x86 Split-Workshop
+## Week 9: Reverse Engineering, Part 4
 Picking up from the last week's session, we will continue to explore the world of x86. This is going to be a workshop were we will write programs at assembly level. Once, we get familiar to basic x86 instructions we will switch to analyzing a real application and try to get high level understanding of what the application is doing. The goal would be to get familiar with calling conventions, stack and stack frames.
 
+### Lecture Materials
+1. [Introductory Intel x86 Lectures](http://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
+
 ### Workshop Materials
-1. [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
-2. [Write readFile.c in x86 by hand](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week9)
+1. [Write readFile.c in x86 by hand](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week9)
 
 ### Resources
-1. [nasm](http://www.nasm.us/)
-2. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
+1. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
+2. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
+3. [nasm](http://www.nasm.us/)
+4. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 10: Exploitation, Part 1
@@ -212,6 +234,10 @@ In this week's session, we will go over some advanced concepts related to comput
 
 ### Resources
 1. [Exploitation](https://github.com/isislab/Project-Ideas/wiki/Exploitation)
+2. [VMWare Player](http://www.vmware.com/download/player/download.html)
+3. [Linux Machine](http://www.ubuntu.com/download/desktop) (preferably, Ubuntu)
+4. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+5. [Windbg](http://msdn.microsoft.com/en-us/library/windows/hardware/gg463009.aspx)
 
 
 ## Week 11: Exploitation, Part 2
@@ -224,10 +250,11 @@ Picking up from the last session, we will finish watching Dino Dai Zovi's lectur
 1. [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected)
 
 ### Resources
-1. [VMWare Player](http://www.vmware.com/download/player/download.html)
-2. [Linux Machine](http://www.ubuntu.com/download/desktop) (preferably, Ubuntu)
-3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [Windbg](http://msdn.microsoft.com/en-us/library/windows/hardware/gg463009.aspx)
+1. [Exploitation](https://github.com/isislab/Project-Ideas/wiki/Exploitation)
+2. [VMWare Player](http://www.vmware.com/download/player/download.html)
+3. [Linux Machine](http://www.ubuntu.com/download/desktop) (preferably, Ubuntu)
+4. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
+5. [Windbg](http://msdn.microsoft.com/en-us/library/windows/hardware/gg463009.aspx)
 
 ### More Challenges
 1. [Gera's Insecure Programming by Example](http://community.corest.com/~gera/InsecureProgramming/)
