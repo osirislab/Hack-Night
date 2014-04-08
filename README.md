@@ -1,4 +1,4 @@
-# NYU Poly [ISIS Lab](http://www.isis.poly.edu/)'s [Hack Night](http://www.isis.poly.edu/hack-night)
+# NYU Poly [ISIS Lab](http://www.isis.poly.edu/)'s [Hack Night](http://isislab.github.io/Hack-Night/)
 Developed from the materials of NYU Poly's [old Penetration Testing and Vulnerability Analysis course](http://pentest.cryptocity.net/), Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
 Hack Night culminates in a practical application of the skills and techniques taught, students complete a research project inspired by one of the lectures or exercise materials. By the end of the course, each student is expected to have a good understanding of all topics and a mastery of at least one topic.
