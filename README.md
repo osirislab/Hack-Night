@@ -1,12 +1,12 @@
 # NYU Poly [ISIS Lab](http://www.isis.poly.edu/)'s [Hack Night](http://isislab.github.io/Hack-Night/)
-Developed from the materials of NYU Poly's [old Penetration Testing and Vulnerability Analysis course](http://pentest.cryptocity.net/), Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
+Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
 Hack Night culminates in a practical application of the skills and techniques taught, students complete a research project inspired by one of the lectures or exercise materials. By the end of the course, each student is expected to have a good understanding of all topics and a mastery of at least one topic.
 
 *Due to the involved nature of this course, we recommend students attend Hack Night in person.*
 
 ## Logistics
-If you have any questions, or would like to attend a Hack Night session, you can contact Nick Anderson at HackNight@isis.poly.edu or you can [file a ticket](https://github.com/isislab/Hack-Night/issues) in Github.
+If you have any questions, or would like to attend a Hack Night session, you can contact Evan Jensen or Marc Budofsky at HackNight@isis.poly.edu or you can [file a ticket](https://github.com/isislab/Hack-Night/issues) in Github.
 
 Sign up for the [Cyber Security Club mailing list](https://isis.poly.edu/mailman/listinfo/csc) to recieve weekly e-mails about seminars and training sessions brought to you by the [ISIS Lab](http://www.isis.poly.edu/).
 
@@ -18,7 +18,7 @@ Brooklyn, NY 11201
 
 
 ## Week 0: Background
-In order to get the most out of Hack Night, you should be familiar with some basic security concepts and programming.
+In order to get the most out of Hack Night, you should be familiar with some basic security concepts.
 
 ### Lecture Materials
 1. [PicoCTF Resources](https://picoctf.com/learn)
@@ -46,12 +46,11 @@ In order to get the most out of Hack Night, you should be familiar with some bas
 #### Web Security
 1. [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
-#### Programming
-1. [Learn Python](http://www.codecademy.com/tracks/python)
 
-
-## Week 1: Introduction and Ethics
-This is an introduction session to the Hack Night curriculum; this session tries to give a preview of what the rest of the semester will contain. More importantly, it also gives the ethics necessary to keep in mind when you're learning something as powerful as you're going to now. Next, we will cover various types of disclosure practices that hackers have followed since the discovery of the first security flaws.
+## Week 1: Introduction
+This is an introduction session to the Hack Night curriculum, this session tries to give an overview of what rest of Hack Night sessions is to be followed. More importantly, it also gives the
+ethics necessary to keep in mind when you learn something as powerful as your going to do now. Next, we will cover various types of disclosure that hackers have followed since
+its inception.
 
 Before diving into the Hack Night semester, we recommend you take a look at the resources below and become familiar with some of the material.
 
@@ -72,14 +71,16 @@ Before diving into the Hack Night semester, we recommend you take a look at the 
 
 
 ## Week 2: Source Code Auditing, Part 1
-This session will cover Code Auditing. Code Auditing an application is the process of analyzing application code (in source or binary form) to uncover vulnerabilities that attackers might exploit. By going through this process, you can identify and close security holes that would otherwise put sensitive data and business resources at unnecessary risk. Topics that will be covered are Identifying Architectural, Implementation and Operational vulnerabilities.
+This session will cover Code Auditing. Code Auditing an application is the process of analyzing application code (in source or binary form) to uncover vulnerabilities that attackers
+might exploit. By going through this process, you can identify and close security holes that would otherwise put sensitive data and business resources at unnecessary risk.
+Topics that will be covered are Identifying Architectural, Implementation and Operational vulnerabilities.
 
 ### Lecture Materials
-1. [Design & Operational Reviews](http://vimeo.com/29082852/) [[slides](http://pentest.cryptocity.net/files/code_analysis/design_review_fall2011.pdf)]
-2. [Code Auditing 101](http://vimeo.com/30001189/) [[slides](http://pentest.cryptocity.net/files/code_analysis/code_audits_1_fall2011.pdf)]
+1. [Design & Operational Reviews](http://vimeo.com/29082852/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/design_review_fall2011.pdf?raw=true)]
+2. [Code Auditing 101](http://vimeo.com/30001189/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_1_fall2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [Client Request Access Protocol](http://pentest.cryptocity.net/files/code_analysis/designdoc-fall2010.pdf)  
+1. [Client Request Access Protocol](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week2/designdoc-fall2010.pdf?raw=true)
 We believe this protocol to be severely flawed and require your assistance in identifying vulnerabilities in it. Your objective is to identify and informally describe as many of these issues that you can.
 
 ### Resources
@@ -89,19 +90,19 @@ We believe this protocol to be severely flawed and require your assistance in id
 4. [Integer Overflows](http://en.wikipedia.org/wiki/Integer_overflow)
 5. [Catching Integer Overflows](http://www.fefe.de/intof.html)
 6. [The Fortify Taxonomy of Software Security Flaws](http://www.fortify.com/vulncat/)
-7. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
 
 
 ## Week 3: Source Code Auditing, Part 2
-This week we will continue with the final video on Code Auditing, and provide you with 2 more applications that are intentionally vulnerable. Your job is to audit the source code and find vulnerabilities in them. Test the skills that you have learned last week to efficiently go over the process of auditing applications.
+This week we will continue with the final video on Code Auditing, and provide you with 2 more applications that are intentionally vulnerable. Your job is to audit the source code and find vulnerabilities in them. Test
+the skills that you have learned last week to efficiently go over the process of auditing applications.
 
 ### Lecture Materials
-1. [Code Auditing 102](http://vimeo.com/29702192/) [[slides](http://pentest.cryptocity.net/files/code_analysis/code_audits_2_fall2011.pdf)]
+1. [Code Auditing 102](http://vimeo.com/29702192/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_2_fall2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [News Paper](http://pentest.cryptocity.net/files/code_analysis/fall2011_hw2.c)  [Simple Usage](http://pentest.cryptocity.net/files/code_analysis/fall2011_install.sh)  
+1. [News Paper](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_server.c)  [Simple Usage](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_install.sh)
 This network service simulates a text-based terminal application. The general purpose of the application is to act as a "news server" or text file service. These are two types of users: regular and administrator. Administrators can add users and execute back-end system commands. Users can view and contribute articles (aka text files). Assume the application runs on Linux and is compiled with gcc.
-2. [Siberia Crimeware Pack](http://pentest.cryptocity.net/files/code_analysis/siberia.zip) (Password: infected)  
+2. [Siberia Crimeware Pack](workshops/week3/siberia.zip) (Password: infected)
 The Siberia kit contains live exploit code and will likely set off AV, however none of the exploit code is in a state where it would be harmful to your computer. In addition to all of the vulnerabilites have been patched years ago, the exploits in Siberia need to be interpreted by PHP and read by your browser for them to have any effect. You can safely disable or create exceptions in your AV for this exercise or place the Siberia files inside a VM.
 
 ### Resources
@@ -111,7 +112,6 @@ The Siberia kit contains live exploit code and will likely set off AV, however n
 4. [Integer Overflows](http://en.wikipedia.org/wiki/Integer_overflow)
 5. [Catching Integer Overflows](http://www.fefe.de/intof.html)
 6. [The Fortify Taxonomy of Software Security Flaws](http://www.fortify.com/vulncat/)
-7. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
 
 ### Tools
 1. [Source Navigator](http://sourcenav.sourceforge.net/)
@@ -123,7 +123,7 @@ The Siberia kit contains live exploit code and will likely set off AV, however n
 This session will cover web hacking. This session is about getting familiarity with various vulnerabilities commonly found in web applications. You will be able to identify and exploit web application vulnerabilities. Topics to be covered are web application primer, Vuln. commonly found in web apps. (OWASP Top 10) and Basic web testing methodologies.
 
 ### Lecture Materials
-1. [Web Hacking 101](http://vimeo.com/32509769) [[slides](http://pentest.cryptocity.net/files/web/2011/Web%20Hacking%20Day%201%20-%202011.pdf)]
+1. [Web Hacking 101](http://vimeo.com/32509769) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/WebHackingDay1-2011.pdf?raw=true)]
 
 ### Workshop Materials
 1. [Google Gruyere](http://google-gruyere.appspot.com/)
@@ -140,7 +140,7 @@ This session will cover web hacking. This session is about getting familiarity w
 In this session, we will continue with the second video on Web Hacking.  We will then be using some more intentionally vulnerable web applications to identify and analyze the top ten vulnerabilities commonly found in the web applications  You will be going through the steps of busticating a real site and throwing a fire sale using freely available tools.
 
 ### Lecture Materials
-1. [Web Hacking 102](http://vimeo.com/32550671) [[slides](http://pentest.cryptocity.net/files/web/2011/Web%20Hacking%20Day%202%20-%202011.pdf)]
+1. [Web Hacking 102](http://vimeo.com/32550671) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/WebHackingDay2-2011.pdf?raw=true)]
 
 ### Workshop Materials
 1. [OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
@@ -159,17 +159,17 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 
 ### Lecture Videos
 1. [Reverse Engineering 101](http://vimeo.com/6764570)
-2. [Reverse Engineering 102](http://vimeo.com/30076325)  [[slides](http://pentest.cryptocity.net/files/reversing/sotirov-re-fall2011.pdf)]
+2. [Reverse Engineering 102](http://vimeo.com/30076325)  [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/sotirov-re-fall2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [Challenge Application](http://128.238.66.181/easy32)
+1. [Challenge Application](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week6/bin1?raw=true)
 
 ### Resources
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
 3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+4. [x86 Win32 Reverse Engineering Cheatsheet](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf?raw=true)
+5. [IDA Pro Shortcuts](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/IDA_Pro_Shortcuts.pdf?raw=true)
 6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
 7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 8. [nasm](http://www.nasm.us/)
@@ -180,17 +180,17 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 Picking up from previous session, we will watch the last video on Reverse Engineering, and present you with an application which has no source code. Your job is to understand what the application is doing and figure out any loopholes present in that application. You'll use static analysis tools like IDA and varied dynamic analysis to analyze the binary and get a complete understanding of the application.
 
 ### Lecture Videos
-1. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides](http://pentest.cryptocity.net/files/reversing/2011/dynamic_reversing_2011.pdf)]
+1. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/dynamic_reversing_2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected)
+1. [Challenge Application](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week7/easy32?raw=true)
 
 ### Resources
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
 3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+4. [x86 Win32 Reverse Engineering Cheatsheet](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf?raw=true)
+5. [IDA Pro Shortcuts](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/IDA_Pro_Shortcuts.pdf?raw=true)
 6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
 7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 8. [nasm](http://www.nasm.us/)
@@ -210,8 +210,8 @@ In this session we will cover [Introductory Intel x86: Architecture, Assembly, A
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
 3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+4. [x86 Win32 Reverse Engineering Cheatsheet](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf?raw=true)
+5. [IDA Pro Shortcuts](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/IDA_Pro_Shortcuts.pdf?raw=true)
 6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
 7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 8. [nasm](http://www.nasm.us/)
@@ -225,25 +225,25 @@ Picking up from the last week's session, we will continue to explore the world o
 1. [Introductory Intel x86 Lectures](http://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 
 ### Workshop Materials
-1. [Write readFile.c in x86 by hand](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week9)
+1. [RPI Bomb Lab](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/rev2/bomb)
+2. [Write readFile.c in x86 by hand](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week9)
 
 ### Resources
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
 3. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
-4. [x86 Win32 Reverse Engineering Cheatsheet](http://pentest.cryptocity.net/files/reversing/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
-5. [IDA Pro Shortcuts](http://pentest.cryptocity.net/files/reversing/IDA_Pro_Shortcuts.pdf)
+4. [x86 Win32 Reverse Engineering Cheatsheet](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf?raw=true)
+5. [IDA Pro Shortcuts](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/IDA_Pro_Shortcuts.pdf?raw=true)
 6. [All Materials for Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86_files/IntroX86_all_materials_with_pdf_1.zip)
-7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
-8. [nasm](http://www.nasm.us/)
-9. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
+7. [nasm](http://www.nasm.us/)
+8. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
 
 
 ## Week 10: Exploitation, Part 1
 In this week's session, we will go over some advanced concepts related to computer security. Dino Dai Zovi will go over various memory errors that an application can cause often leading to catastrophic results. Topics that will be covered are various memory errors like buffer overflows, uninitialized variables, use after free etc. and how we can use them to take control of an application. We will also look at exploitation mitigation that your current OS implements, it's not 1988 anymore. Finally, we will look at some techniques used to bypass modern mitigations.
 
 ### Lecture Materials
-1. [Memory Corruption 101](http://vimeo.com/31348274) [[slides](http://pentest.cryptocity.net/files/exploitation/2011/memory_corruption_101.pdf)]
+1. [Memory Corruption 101](http://vimeo.com/31348274) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/memory_corruption_101.pdf?raw=true)]
 
 ### Workshop Materials
 1. [Vulnerable Application](https://github.com/isislab/Hack-Night/tree/master/2013-Fall/week10)
@@ -260,10 +260,10 @@ In this week's session, we will go over some advanced concepts related to comput
 Picking up from the last session, we will finish watching Dino Dai Zovi's lecture and do a live exploitation of a vulnerable program. We will go through all the steps that Dino explained in his lecture to write a control flow hijacking exploit and take over the program. Once we are done with 1990's style exploitation, we will re-compile the program with modern mitigation technologies and look at various techniques used to bypass these mitigation's.
 
 ### Lecture Materials
-1. [Memory Corruption 101](http://vimeo.com/31348274) [[slides](http://pentest.cryptocity.net/files/exploitation/2011/memory_corruption_101.pdf)]
+1. [Memory Corruption 101](http://vimeo.com/31348274) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/memory_corruption_101.pdf?raw=true)]
 
 ### Workshop Materials
-1. [demo.exe](http://pentest.cryptocity.net/files/exploitation/demo.zip) (Password: infected)
+1 [CSAW 2013 Exploitation 2](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week11/exploit2?raw=true)
 
 ### Resources
 1. [Exploitation](https://github.com/isislab/Project-Ideas/wiki/Exploitation)
@@ -285,7 +285,6 @@ In this week, we will cover post-exploitation. Post-exploitation is the stage in
 
 ### Workshop Material
 As shown in the lecture video, setup two VM’s. One VM will have metasploit running, backtrack is preferred and the other machine will be a Windows box. Preferred, win xp professional or win 7 professional.
-
 Use the psexec module available in metasploit to gain access to the Windows box. Once, you have a meterpreter session available, apply different techniques demonstrated in the lecture like getting the password hash of Administrator, so that you can re-login as Administrator which gives you elevated privileges.
 
 Having a meterpreter session open isn’t necessarily good enough. For instance, run cmd.exe in windows box; get back to your meterpreter session and find the pid of cmd.exe using “ps” command. Once you are able to figure out the pid, use the migrate command to switch to that process. Now, close the command prompt in the windows box. Do you still have the session open? What do you think a stable process might be to migrate?
@@ -293,8 +292,7 @@ Having a meterpreter session open isn’t necessarily good enough. For instance,
 If you have found the stable process that you as an attacker want to migrate to, chances are your persistence is good. Although, this may not be the case if the victim restarts his machine. What do you think a better approach would be to keep your connection persistent, even after several reboots? Try to use this method and see for yourself, if you have a persistent connection or not.
 
 ### Resources
-1. [Symantec Stuxnet Dossier](http://pentest.cryptocity.net/files/operations/references/w32_stuxnet_dossier.pdf)
-2. [Useful References](http://pentest.cryptocity.net/operations/references.html)
+1. [Symantec Stuxnet Dossier](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/references/w32_stuxnet_dossier.pdf?raw=true)
 
 
 ## Week 13: Application Security
@@ -309,7 +307,6 @@ In this, the last session of Hack Night. We will be going over Fuzzing and later
 
 ### Resources
 1. [Fuzzing](https://github.com/isislab/Project-Ideas/wiki/Fuzzing)
-2. [Useful References](http://pentest.cryptocity.net/fuzzing/references.html)
 
 
 ## Conclusion
