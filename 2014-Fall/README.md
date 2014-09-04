@@ -102,7 +102,7 @@ the skills that you have learned last week to efficiently go over the process of
 ### Workshop Materials
 1. [News Paper](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_server.c)  [Simple Usage](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_install.sh)
 This network service simulates a text-based terminal application. The general purpose of the application is to act as a "news server" or text file service. These are two types of users: regular and administrator. Administrators can add users and execute back-end system commands. Users can view and contribute articles (aka text files). Assume the application runs on Linux and is compiled with gcc.
-2. [Siberia Crimeware Pack](workshops/week3/siberia.zip) (Password: infected)
+2. [Siberia Crimeware Pack](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/siberia.zip?raw=true) (Password: infected)
 The Siberia kit contains live exploit code and will likely set off AV, however none of the exploit code is in a state where it would be harmful to your computer. In addition to all of the vulnerabilites have been patched years ago, the exploits in Siberia need to be interpreted by PHP and read by your browser for them to have any effect. You can safely disable or create exceptions in your AV for this exercise or place the Siberia files inside a VM.
 
 ### Resources
