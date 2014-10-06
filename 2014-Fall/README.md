@@ -162,7 +162,8 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 2. [Reverse Engineering 102](http://vimeo.com/30076325)  [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/sotirov-re-fall2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [Challenge Application](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week6/bin1?raw=true)
+In this section we will go through the basic idea of a binary and how your source code is converted into an executable form. We will then look at the assembly language used by executable programs and develop our own low level programs. We will write simple assembly language programs and teach the basic skills needed to understand more complex assembly language uses.
+1. [Assembly Programming Exercises](https://github.com/blankwall/asm_prog_ex)
 
 ### Resources
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
@@ -183,7 +184,8 @@ Picking up from previous session, we will watch the last video on Reverse Engine
 1. [Dynamic Reverse Engineering](http://vimeo.com/30594548)  [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/dynamic_reversing_2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [Challenge Application](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week7/easy32?raw=true)
+1. [Challenge Application 1](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week7/bin1?raw=true)
+2. [Challenge Application 2](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week7/easy32?raw=true)
 
 ### Resources
 1. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
