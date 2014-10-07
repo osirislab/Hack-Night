@@ -163,6 +163,7 @@ This session is about Reverse Engineering.  Most of the software we use everyday
 
 ### Workshop Materials
 In this section we will go through the basic idea of a binary and how your source code is converted into an executable form. We will then look at the assembly language used by executable programs and develop our own low level programs. We will write simple assembly language programs and teach the basic skills needed to understand more complex assembly language uses.
+
 1. [Assembly Programming Exercises](https://github.com/blankwall/asm_prog_ex)
 
 ### Resources
