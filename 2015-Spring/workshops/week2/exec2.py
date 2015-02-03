@@ -6,6 +6,8 @@ banned = [
     "os",
     "subprocess",
     "kevin sucks",
+    "banned",
+    "cry sum more",
     "sys"
 ]
 

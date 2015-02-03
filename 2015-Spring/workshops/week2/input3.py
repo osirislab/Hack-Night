@@ -10,7 +10,7 @@ def printpegs(code):
 
 print "Master Mind Game"
 
-flag = "xxxxxxxxxx"
+flag = "this_is_a_flag"
 
 mm_code = (randint(0,9), randint(0,9), randint(0,9), randint(0,9), randint(0,9))
 print "I've set my code. Guess it!"
