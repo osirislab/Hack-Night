@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SlimFTPd31", "SlimFTPd31.vcproj", "{06EF787B-A2B5-4D63-9B1B-C5614640D8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EF787B-A2B5-4D63-9B1B-C5614640D8B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06EF787B-A2B5-4D63-9B1B-C5614640D8B6}.Debug|Win32.Build.0 = Debug|Win32
+		{06EF787B-A2B5-4D63-9B1B-C5614640D8B6}.Release|Win32.ActiveCfg = Release|Win32
+		{06EF787B-A2B5-4D63-9B1B-C5614640D8B6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -20,7 +20,7 @@ print "       I will respond by marking the correct digits with a 2, marking"
 print "       digits in the wrong place with a 1, and marking wrong digits 0."
 
 while True:
-    guess = str(input('guess> '))
+    guess = input('guess> ')
     if len(guess) != 5:
         print "You must guess a 5-digit code!"
         continue

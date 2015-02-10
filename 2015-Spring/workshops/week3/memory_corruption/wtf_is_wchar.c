@@ -1,0 +1,1 @@
+#include <unistd.h>int vuln_function(char *string1) {    wchar_t buf1[256]; // sizeof(wchar_t) ?= sizeof(char)    mbstowcs(buf1, string1, sizeof(buf1)-1);    return 0;}int main() {    char userstring[256];    read(0, userstring, sizeof(userstring));    call_strncpy(userstring);    return 0;}

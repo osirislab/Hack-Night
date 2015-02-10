@@ -1,0 +1,13 @@
+Commands 511 bytes long buffer 512
+
+
+Not Logged In Commands:
+
+HELP
+FEAT
+SYST
+QUIT
+ABOR
+NOOP
+
+Enumerated all non logged in functionality and attack surface. All looks safe in that regard. Am moving on to the post authorization vector.
