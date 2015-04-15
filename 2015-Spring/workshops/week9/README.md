@@ -24,7 +24,7 @@ Make the program execute code (shellcode) by tricking the program into thinking 
 Changing Program Execution Flow by Chaining Together Existing Code from the Program with a Stack Based Buffer Overflow
 #### Task
 Make the program execute certain functions in a sequential order
-#### ROP
+#### Resources
 * <https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming>
 
 ### Part 5 - Return to Libc
