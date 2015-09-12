@@ -4,7 +4,7 @@
 Click on the words "view raw" [here](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/Recon_Networking/communicating-on-networks/Interacting%20with%20Computers%20on%20Networks.pptx)
 
 ## Additional Resources
-* [Introduction to Networking](http://www.net-intro.com/) (Recommended reading
+* [Introduction to Networking](http://www.net-intro.com/) (Recommended reading)
 * [Using NetCat](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps)
 * [Using NMAP Part 1](https://www.youtube.com/watch?v=Bn36zoApLm4)
 * [Using NMAP Part 2](https://www.youtube.com/watch?v=nr10P55AlKc)
