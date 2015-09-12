@@ -1,7 +1,7 @@
 # Interacting with Computers on Networks
 
 ## Slides
-<link>
+Click on the words "view raw" [here](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/Recon_Networking/communicating-on-networks/Interacting%20with%20Computers%20on%20Networks.pptx)
 
 ## Additional Resources
 * [Introduction to Networking](http://www.net-intro.com/) (Recommended reading
@@ -11,7 +11,7 @@
 
 ## Things to Try
 ### Setup
-Please checkout the setup section [here]() to be able to replicate the things to try
+Please checkout the setup section [here](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/README.md) to be able to replicate the things to try
 
 ### Try it out
 Note: When we tell you to type a command, disregard everything before the `#`. You should already see something similar in your terminal.
