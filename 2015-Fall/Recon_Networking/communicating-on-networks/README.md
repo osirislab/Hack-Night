@@ -1,7 +1,7 @@
 # Interacting with Computers on Networks
 
 ## Slides
-Click on the words "view raw" [here](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/Recon_Networking/communicating-on-networks/Interacting%20with%20Computers%20on%20Networks.pptx)
+[Download](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/Recon_Networking/communicating-on-networks/Interacting%20with%20Computers%20on%20Networks.pptx?raw=true)
 
 ## Additional Resources
 * [Introduction to Networking](http://www.net-intro.com/) (Recommended reading)
