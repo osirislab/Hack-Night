@@ -32,8 +32,12 @@ num_computers = all_computers ^ mask
 for ip_suffix in range(num_computers):
     test_ip = long2ip(prefix + ip_suffix)
     try:
-        ping.quite_ping(test_ip, count=3)
-        print "[+] Host is there:", test_ip
-    except:
+        print "[*] Checking to see if host is up..."
+        timeout = ping.do_one(test_ip, 1)
+        print timeout
+        if timeout != None:
+            print "[+] Host is there:", test_ip
+        print "-"*100
+    except socket.error, e:
         print "[-] Host not there:", test_ip
 
