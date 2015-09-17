@@ -1,17 +1,17 @@
 # Interacting with Computers on Networks
 
 ## Slides
-<link>
+[Download](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/Recon_Networking/communicating-on-networks/Interacting%20with%20Computers%20on%20Networks.pptx?raw=true)
 
 ## Additional Resources
-* [Introduction to Networking](http://www.net-intro.com/) (Recommended reading
+* [Introduction to Networking](http://www.net-intro.com/) (Recommended reading)
 * [Using NetCat](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps)
 * [Using NMAP Part 1](https://www.youtube.com/watch?v=Bn36zoApLm4)
 * [Using NMAP Part 2](https://www.youtube.com/watch?v=nr10P55AlKc)
 
 ## Things to Try
 ### Setup
-Please checkout the setup section [here]() to be able to replicate the things to try
+Please checkout the setup section [here](https://github.com/isislab/Hack-Night/blob/master/2015-Fall/README.md) to be able to replicate the things to try
 
 ### Try it out
 Note: When we tell you to type a command, disregard everything before the `#`. You should already see something similar in your terminal.
