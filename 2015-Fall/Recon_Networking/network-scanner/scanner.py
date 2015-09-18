@@ -10,13 +10,13 @@ subnet_mask = "255.255.255.0"
 
 def ip2long(ip):
     """
-    Convert a long to IP string
+    Convert an IP string to long
     """
     return unpack(">L", socket.inet_aton(ip))[0]
 
 def long2ip(ip):
     """
-    Convert an IP string to long
+    Convert a long to IP string
     """
     return socket.inet_ntoa(pack('!L', ip))
 
