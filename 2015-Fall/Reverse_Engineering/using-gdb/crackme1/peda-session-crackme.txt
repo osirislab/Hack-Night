@@ -1,0 +1,4 @@
+break crackme.c:6
+break *0x80483dd
+break main
+
