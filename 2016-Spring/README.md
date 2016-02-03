@@ -1,4 +1,4 @@
-# Hack Night - Fall 2015
+# Hack Night - Spring 2016
 
 ## Topics
 * Python Exploitation
