@@ -1,5 +1,5 @@
-# NYU Poly [ISIS Lab](http://www.isis.poly.edu/)'s [Hack Night](http://isislab.github.io/Hack-Night/)
-Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
+# NYU Tandon's [OSIRIS Lab](http://osiris.cyber.nyu.edu/)'s [Hack Night](http://isislab.github.io/Hack-Night/)
+Developed from the materials of NYU Tandon's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
 Hack Night culminates in a practical application of the skills and techniques taught, students complete a research project inspired by one of the lectures or exercise materials. By the end of the course, each student is expected to have a good understanding of all topics and a mastery of at least one topic.
 
@@ -8,11 +8,11 @@ Hack Night culminates in a practical application of the skills and techniques ta
 ## Logistics
 If you have any questions, or would like to attend a Hack Night session, you can contact Evan Jensen or Marc Budofsky at HackNight@isis.poly.edu or you can [file a ticket](https://github.com/isislab/Hack-Night/issues) in Github.
 
-Sign up for the [Cyber Security Club mailing list](https://isis.poly.edu/mailman/listinfo/csc) to recieve weekly e-mails about seminars and training sessions brought to you by the [ISIS Lab](http://www.isis.poly.edu/).
+Sign up for the [Cyber Security Club mailing list](https://isis.poly.edu/mailman/listinfo/csc) to recieve weekly e-mails about seminars and training sessions brought to you by the [OSIRIS Lab](http://osiris.cyber.nyu.edu/).
 
 Hack Night is run every Wednesday during the regular semester at 6 PM in RH 219, check [our calendar for updates](http://www.isis.poly.edu/calendar).
 
-ISIS Lab, RH 219  
+OSIRIS Lab, RH 219 
 Six MetroTech Center  
 Brooklyn, NY 11201
 
