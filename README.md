@@ -6,7 +6,7 @@ Hack Night culminates in a practical application of the skills and techniques ta
 *Due to the involved nature of this course, we recommend students attend Hack Night in person.*
 
 ## Logistics
-If you have any questions, or would like to attend a Hack Night session, you can contact Evan Jensen or Marc Budofsky at HackNight@isis.poly.edu or you can [file a ticket](https://github.com/isislab/Hack-Night/issues) in Github.
+If you have any questions, or would like to attend a Hack Night session, you can contact Momo Amin or Christopher Thompson at HackNight@isis.poly.edu or you can [file a ticket](https://github.com/isislab/Hack-Night/issues) in Github.
 
 Sign up for the [Cyber Security Club mailing list](https://isis.poly.edu/mailman/listinfo/csc) to recieve weekly e-mails about seminars and training sessions brought to you by the [OSIRIS Lab](http://osiris.cyber.nyu.edu/).
 
