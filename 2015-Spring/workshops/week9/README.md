@@ -1,3 +1,7 @@
+## Setup
+
+sudo apt-get install gcc-multilib
+
 ## Exploitation Part 1
 
 ### Part 1 - Straight up Overflow
