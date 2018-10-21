@@ -21,7 +21,7 @@ Brooklyn, NY 11201
 In order to get the most out of Hack Night, you should be familiar with some basic security concepts.
 
 ### Lecture Materials
-1. [PicoCTF Resources](https://picoctf.com/learn)
+1. [PicoCTF Resources](https://picoctf.com/resources)
 
 ### Resources
 #### General
