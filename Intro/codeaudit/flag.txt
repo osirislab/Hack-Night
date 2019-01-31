@@ -1,0 +1,1 @@
+flag{welcome_to_hacknight}
