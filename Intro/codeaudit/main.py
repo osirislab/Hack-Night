@@ -47,7 +47,7 @@ def logout():
 
 
 def print_accounts(target):
-    print("You have %s on hand" % (target.balance))
+    print("%s has %s on hand" % (target.uname, target.balance))
     if not target.accounts:
         print("You have no accounts")
     for account in range(len(target.accounts)):
