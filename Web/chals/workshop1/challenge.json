@@ -1,0 +1,9 @@
+{
+    "name": "SQLi",
+    "category": "Web",
+    "description": "Now, your first real web exploitation challenge.\nhttp://recruit.osiris.cyber.nyu.edu:1243",
+    "flag": "flag{squealeeeeeee}",
+    "points": 30,
+    "files": [],
+    "unlocked_by": "view source"
+}

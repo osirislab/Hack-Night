@@ -1,0 +1,9 @@
+{
+    "name":"Template Programming",
+    "category":"Web",
+    "description":"Read /flag.txt from the server. http://recruit.osiris.cyber.nyu.edu:2000",
+    "flag":"flag{d0n't_eval_us3r_1nput!}",
+    "points":100,
+    "files":["site/app.py"],
+    "unlocked_by":"SQLi"
+}

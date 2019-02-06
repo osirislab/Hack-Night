@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Register{% endblock%}
+{% block body %}
+<div class="container">
+  
+  <div id="login-container">
+    <h5>Register</h5>
+    {% if err %}
+      <p class="login-error">{{ err }}</p>
+    {% endif %}
+    <form method="POST" action="register">
+      <div class="form-group">
+        <input type="text" class="form-control" id="username" placeholder="Username" name="username"/>
+      </div>
+      <div class="form-group">
+        <input type="password" class="form-control" id="password" placeholder="Password" name="password"/>
+      </div>
+      <div class="form-group">
+        <input type="password" class="form-control" id="confirm-password" placeholder="Confirm Password" name="confirm-password"/>
+      </div>
+
+      <button type="submit" class="btn login">Register</button>
+    </form>
+  </div>
+
+</div>
+
+{% endblock %}
+
