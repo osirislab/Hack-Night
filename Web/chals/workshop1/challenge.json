@@ -1,9 +1,9 @@
 {
-    "name": "SQLi",
-    "category": "Web",
-    "description": "Now, your first real web exploitation challenge.\nhttp://recruit.osiris.cyber.nyu.edu:1243",
-    "flag": "flag{squealeeeeeee}",
-    "points": 30,
-    "files": [],
-    "unlocked_by": "view source"
+    "name":"lfi",
+    "category":"Web",
+    "description":"Read /flag.txt from the server. \n`http://recruit.osiris.cyber.nyu.edu:2001`",
+    "flag":"flag{sh0ut0ut_t0_3g1003_4_b3ing_an_3xampl3}",
+    "points":30,
+    "files":[],
+    "unlocked_by":"view source"
 }

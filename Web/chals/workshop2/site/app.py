@@ -1,22 +1,17 @@
-from flask import Flask, request, send_file, abort
+#!/usr/bin/env python3
+
+from flask import Flask, request, abort, render_template_string
 import os.path
 
 app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def index():
-    if 'page' in request.args:
-        page = request.args['page']
-    else:
-        page = 'index.html'
-    page = './pages/' + page
-    if not os.path.isfile(page):
-        abort(404)
+    name = request.args.get('name')
+    if name is not None:
+        return render_template_string(open('templates/hello.html').read().format(name=name))
 
-
-    return send_file(page)
-
-
+    return render_template_string(open('templates/index.html').read())
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")

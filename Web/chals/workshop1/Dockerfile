@@ -1,14 +1,21 @@
-FROM mattrayner/lamp:latest-1604
+FROM ubuntu:18.04
 
-COPY ./html /var/www/html/
+MAINTAINER Kent Ma
 
-COPY ./init_db.sh /
-COPY ./db.sql /
-RUN chmod +x /init_db.sh
+RUN apt-get update -y && \
+    apt-get install -y python-pip python-dev libgmp3-dev libmpfr-dev libmpc-dev
 
-RUN sed -i '$i/init_db.sh' /create_mysql_users.sh
+# We copy just the requirements.txt first to leverage Docker cache
+COPY ./requirements.txt /app/requirements.txt
+COPY flag.txt /flag.txt
 
-RUN echo "flag{squealeeeeeee}" > /flag.txt
+WORKDIR /app
 
-EXPOSE 80
-CMD ["/run.sh"]
+RUN pip install -r requirements.txt
+
+COPY /site /app
+EXPOSE 5000
+
+ENTRYPOINT [ "python" ]
+
+CMD [ "app.py" ]

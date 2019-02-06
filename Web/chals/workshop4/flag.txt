@@ -1,1 +1,0 @@
-flag{now_go_do_recruit}
