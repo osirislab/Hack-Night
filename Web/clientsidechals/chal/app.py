@@ -59,7 +59,7 @@ def botlogin():
         abort(404)
 
     session["uuid"] = "botuser"
-    return redirect("/")
+    return "ok"
 
 
 @app.route("/", methods=["GET", "POST"])
