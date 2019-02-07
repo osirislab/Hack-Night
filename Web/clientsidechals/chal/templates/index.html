@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title%}Hello{% endblock%}
+{% block body %}
+<div class="submission">
+    <form method="POST" action="/">
+        <input type="text" name="content"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+Your posts:
+
+<ul>
+{% for post in posts %}
+<li><a href="/post?id={{post.id}}">{{ post.content }}</a></li>
+{% endfor %}
+</ul>
+
+{% endblock %}
