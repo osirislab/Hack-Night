@@ -5,7 +5,7 @@ from flask import Flask, request, render_template
 from flask import session, redirect, abort
 
 from chal_visitor import botuser, BOT_USER_PASSWORD
-from chal import apply_csp
+from chal import apply_csp, get_csp
 
 from db import db, get_post, get_posts, make_post
 
@@ -77,7 +77,7 @@ def index():
     if "uuid" in session:
         posts = get_posts(session["uuid"])
 
-    return render_template("index.html", posts=posts)
+    return render_template("index.html", posts=posts, csp=get_csp())
 
 
 if __name__ == "__main__":
