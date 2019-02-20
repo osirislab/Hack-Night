@@ -1,19 +1,31 @@
 {% extends "base.html" %}
 {% block title%}Hello{% endblock%}
 {% block body %}
+<div>CSP: <p><code>{{ csp }}</code></div>
+<hr>
+
 <div class="submission">
     <form method="POST" action="/">
-        <input type="text" name="content"><br><br>
+        <input type="text" name="content" placeholder="Say something cool"><br><br>
         <input type="submit" value="Submit">
     </form>
 </div>
 
+<div>
+
+<hr>
+
 Your posts:
 
 <ul>
+{% if posts %}
 {% for post in posts %}
 <li><a href="/post?id={{post.id}}">{{ post.content }}</a></li>
 {% endfor %}
+{% else %}
+<li>You have no posts yet</li>
+{% endif %}
 </ul>
+</div>
 
 {% endblock %}
