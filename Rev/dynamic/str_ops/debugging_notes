@@ -1,0 +1,5 @@
+find flag length
+point out important basic blocks
+set b at 0x400759 before cmp
+inspect memory at rax 0x601080
+only analyze a few bytes to avoid boredom
