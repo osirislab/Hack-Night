@@ -158,14 +158,15 @@ We will present you with an application which has no source code. Your job is to
 
 
 ## Week 6 (03/07): Reverse Engineering, Part 3 (Sai Vegasena)
-In this session we will cover [Introductory Intel x86: Architecture, Assembly, Applications, and Alliteration by Xeno Kovah](http://www.opensecuritytraining.info/IntroX86.html) from [OpenSecurityTraining](http://www.opensecuritytraining.info/Welcome.html). Intel processors have been a major force in personal computing for more than 30 years. An understanding of low level computing mechanisms used in Intel chips as taught in this course serves as a foundation upon which to better understand other hardware, as well as many technical specialties such as reverse engineering, compiler design, operating system design, code optimization, and vulnerability exploitation. 50% of the time will be spent learning Windows/Linux tools and analysis of "simple" programs.
+For this lesson, we will be looking at dynamically reversing a binary. We will use a debugger to look into a running process's memory.
+Also, we will use 
+
 
 ### Lecture Materials
 1. [Introductory Intel x86 Lectures](http://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 
 ### Workshop Materials
-1. [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
-2. [Pwndbg GDB Plugin](https://github.com/pwndbg/pwndbg)
+1. [Pwndbg GDB Plugin](https://github.com/pwndbg/pwndbg)
 
 ### Resources
 1. [Binary Ninja Demo](https://binary.ninja/demo/)
