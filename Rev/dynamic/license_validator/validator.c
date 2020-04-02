@@ -1,6 +1,29 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+#include <sys/ptrace.h>
+#include <sys/wait.h>
+char brand[] = "http://www.julioauto.com/rants/anti_ptrace.htm";
+void anti_ptrace(void)
+{
+    pid_t child;
+    if(getenv("LD_PRELOAD"))
+        while(1);
+    child = fork();
+    if (child){
+        wait(NULL);
+    }else {
+       if (ptrace(PTRACE_TRACEME, 0, 1, 0) == -1)
+            while(1);
+       exit(0);
+    }
+   if (ptrace(PTRACE_TRACEME, 0, 0, 0) == -1)
+        while(1);
+}
+*/
+
+
 char xor(char a, char b)
 {
     return a ^ b;
@@ -52,6 +75,10 @@ int checkLicense(void)
 
 int main(int argc, char *argv[])
 {
+	/*
+	sleep(1);
+	anti_ptrace();
+	*/
 	printf("Please enter your license key: ");
 	if (checkLicense() < 0) {
 		printf("\nInvalid license key!\n");

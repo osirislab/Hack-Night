@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+"""
+symbolic_solver.py
+
+    Demonstrates how we can crack the license validator automatically
+    with Manticore's symbolic execution engine.
+
+"""
+
 from manticore.native import Manticore
 
 m = Manticore("./validator")
