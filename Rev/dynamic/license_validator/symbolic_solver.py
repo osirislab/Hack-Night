@@ -19,8 +19,8 @@ def hook(state):
     print("Reached failed path")
 
     with m.locked_context() as context:
-        res = "".join(map(chr, state.solve_buffer(cpu.RAX, 4)))
-        print(res)
+        res = "".join(map(chr, state.solve_buffer(cpu.AL, 2)))
+        print("Character solved: ", res)
         context["count"] += 1
 
 
