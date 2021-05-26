@@ -143,9 +143,6 @@ We will present you with an application which has no source code. Your job is to
 ### Lecture Videos
 1. [Slides]()
 
-### Workshop Materials
-1. [CMU Bomb Lab](http://csapp.cs.cmu.edu/public/1e/bomb.tar) (Linux/IA32 binary)
-
 ### Resources
 1. [Binary Ninja Demo](https://binary.ninja/demo/)
 2. [IDA Demo](https://www.hex-rays.com/products/ida/support/download_demo.shtml)
