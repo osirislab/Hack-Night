@@ -117,7 +117,7 @@ This session is about Reverse Engineering. Most of the software we use everyday 
 This first week will be a primer on x86 assembly and low level programming.
 
 ### Lecture Materials
-1. [Slides](Rev/intro/`Reverse Engineering, Part 1.pdf`)
+1. [Slides](<Rev/intro/Reverse Engineering, Part 1.pdf>)
 
 ### Workshop Materials
 In this section we will go through the basic idea of a binary and how your source code is converted into an executable form. We will then look at the assembly language used by executable programs and develop our own low level programs. We will write simple assembly language programs and teach the basic skills needed to understand more complex assembly language uses.
@@ -141,7 +141,7 @@ This is going to be a workshop were we will write programs at assembly level. On
 We will present you with an application which has no source code. Your job is to understand what the application is doing and figure out any loopholes present in that application. You'll use static analysis tools like IDA to analyze the binary and get a complete understanding of the application.
 
 ### Lecture Videos
-1. [Slides]()
+1. [Slides](<Rev/static/Reverse Engineering, Part 2.pdf>)
 
 ### Resources
 1. [Binary Ninja Demo](https://binary.ninja/demo/)
@@ -200,7 +200,7 @@ Last week you dynamically debugged and reverse engineered a program that used a 
 ## Week 8 (03/28): Memory Corruption, Part 1 (Roy Xu)
 In this week's session, we will go over some advanced concepts related to computer security. We will go over various memory errors that an application can cause often leading to catastrophic results. Topics that will be covered are various memory errors like buffer overflows, uninitialized variables, use after free etc. and how we can use them to take control of an application.
 ### Lecture Materials
-1. [Slides]()
+1. [Slides](<Pwn/Memory Corruption Part 1.pdf>)
 
 ### Workshop Materials
 1. [OSIRIS Wargames](wargames.osiris.cyber.nyu.edu)
@@ -217,7 +217,7 @@ In this week's session, we will go over some advanced concepts related to comput
 This week, We will look at exploitation mitigation that your current OS implements, it's not 1988 anymore. We will look at some techniques used to bypass modern mitigations. We will also go over useful tools and techniques for writing exploits.
 
 ### Lecture Materials
-1. [Slides]()
+1. [Slides](Pwn/Memory Corruption Part 2.pdf)
 
 ### Workshop Materials
 1. [OSIRIS Wargames](wargames.osiris.cyber.nyu.edu)
@@ -241,7 +241,7 @@ We will go over the basic idea of how Glibc malloc behaves and is implemented, a
 * Nullbyte poison
 
 ### Lecture Materials
-1. [Slides]()
+1. [Slides](<Pwn/Heap Exploitation Part 1.pdf>)
 
 ### Workshop Materials
 1. [OSIRIS Wargames](wargames.osiris.cyber.nyu.edu)
@@ -261,7 +261,7 @@ We will go over the basic idea of how Glibc malloc behaves and is implemented, a
 In this week, we will cover the advanced heap exploitation techniques.
 
 ### Lecture Materials
-1. [Slides]()
+1. [Slides](<Pwn/Heap Metadata.pdf>)
 
 ### Workshop Materials
 1. [OSIRIS Wargames](wargames.osiris.cyber.nyu.edu)
