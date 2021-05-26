@@ -47,7 +47,7 @@ Topics that will be covered are Identifying Architectural, Implementation and Op
 2. [The Art of Software Security Assessment](http://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426/ref=sr_1_1?s=books&ie=UTF8&qid=1367449909&sr=1-1&keywords=the+art+of+software+security+assessment)
 3. [Integer Overflows](http://en.wikipedia.org/wiki/Integer_overflow)
 4. [Catching Integer Overflows](http://www.fefe.de/intof.html)
-5. [The Fortify Taxonomy of Software Security Flaws](http://www.fortify.com/vulncat/)
+5. [The Fortify Taxonomy of Software Security Flaws](https://vulncat.fortify.com/data/Fortify_TaxonomyofSoftwareSecurityErrors.pdf)
 
 ### Resources
 1. [IRC: #hacknight on isis.poly.edu port 6697 (ssl only)](http://chat.mibbit.com/?server=isis.poly.edu%3A%2B6697&channel=%23hacknight)
